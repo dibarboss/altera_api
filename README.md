@@ -1,39 +1,23 @@
-#altera_api
-#==========
+#Alterainvest API
+Alterainvest API — это бесплатный инструментарий для интеграции [Alterainvest](http://alterainvest.ru/) в ваш продукт.
 
-#Alterainvest API: документация
-## Alterainvest API
-
-Alterainvest API — это бесплатный инструментарий для интеграции [Alterainvest](http://hh.ru/) в ваш продукт.
-
-1. Зарегистрируйте своё приложение по адресу: [https://dev.hh.ru](https://dev.hh.ru).
+1. Зарегистрируйте своё приложение по адресу: [https://alterainvest.ru/api/dev/](https://alterainvest.ru/api/dev/).
 2. Ознакомьтесь с [общей информацией](docs/general.md) по работе API.
 3. Узнайте как работает [авторизация](docs/authorization.md).
 4. Сделайте свой первый запрос к API.
 
 ## Документация по ресурсам
-* [Вакансия](docs/vacancies.md)
-* [Скрытые вакансии](docs/blacklisted.md)
-* [Работодатель / Компания](docs/employers.md)
-* [Резюме](docs/resumes.md)
-* [Отклики/Приглашения](docs/negotiations.md)
-* [Текущий пользователь](docs/me.md)
-* [Регионы](docs/areas.md)
-* [Специализации](docs/specializations.md)
-* [Метро](docs/metro.md)
-* [Сохраненные поиски (автопоиски)](docs/saved_search.md)
-* [Справочники](docs/dictionaries.md)
-* [Локализация](docs/locales.md)
-* [Отрасли компаний](docs/industries.md)
+* [Сейчас в продаже](docs/products.md)
+* [Продано](docs/sold.md)
+* [База знаний](docs/wiki.md)
 
 ## Поддержка, обратная связь, новости
-Общайтесь с нами через twitter [@apihhru](https://twitter.com/apihhru) или через почту api@hh.ru.  
-Если вы нашли баг, загляните в [issues](https://github.com/hhru/api/issues), возможно про него мы уже знаем. 
+Общайтесь с нами через почту api@alterainvest.ru.  
+Если вы нашли баг, загляните в [issues](https://github.com/dibarboss/altera_api/issues), возможно про него мы уже знаем. 
 Если нет, лучше всего сообщить нам о нём там. Также там вы можете оставлять свои пожелания и предложения.
 Если вы знаете как улучшить эту документацию, вы всегда можеть сделать fork и прислать нам pull request.   
 
-За новостями вы можете следить по [коммитам](https://github.com/hhru/api/commits/master) в этом репозитории. Там есть даже 
-[RSS-поток](https://github.com/hhru/api/commits/master.atom).
+За новостями вы можете следить в этом репозитории.
 
 ## Внешние ссылки
 * [HTTP/1.1](http://tools.ietf.org/html/rfc2616)
